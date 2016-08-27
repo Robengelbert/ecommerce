@@ -26,7 +26,7 @@ class elIterator implements Iterator{
 
 	function current() {
 		var_dump(__METHOD__);
-		$this->list[$this->location];
+		return $this->list[$this->location];
 	}
 	function key() {
 		var_dump(__METHOD__);
@@ -42,7 +42,7 @@ class elIterator implements Iterator{
 	}
 	function valid(){
 		var_dump(__METHOD__);
-		return isset($this->array[$this->location]);
+		return isset($this->list[$this->location]);
 	}
 }
 

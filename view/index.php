@@ -33,11 +33,11 @@
 			<img src="../images/beagle_maximus_balloon.jpg" alt="Beagle balloon" />
 			<img src="../images/cosmos1_balloon.jpg" alt="Space man balloon" />
 			<img src="../images/Joelly_Bee_Balloon.jpg" alt="Bee balloon" />
-			<img src="../images/mariachi_balloon.jpg" alt="Mariachi balloon" />
+			<img src="../images/sunny_boy_balloon.jpg" alt="sun balloon" />
 			<img src="../images/master_yoda_balloon.jpg" alt="Yoda balloon" />
 			<img src="../images/pirate_ship_balloon.jpg" alt="Pirate ship balloon" />
 			<img src="../images/rsz_creamland_cow_balloon.jpg" alt="cow balloon" />
-			<img src="../images/sunny_boy_balloon.jpg" alt="sun balloon" />
+			<img src="../images/mariachi_balloon.jpg" alt="Mariachi balloon" />
 		</section>
 		<div class="container">
 			<div class="row">

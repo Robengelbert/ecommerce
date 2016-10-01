@@ -6,6 +6,10 @@ h1{
 	color:darkgray;
 }
 
+.hid{
+	text-align: center;
+}
+
 #photos{
 	line-height:0;
 	-webkit-column-count: 5;

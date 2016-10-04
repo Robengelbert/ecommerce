@@ -39,6 +39,5 @@
 			<li><a href="../images/sunny_boy_balloon.jpg"><img src="../images/sunny_boy_balloon.jpg" width="100"
 																				alt="Sunny boy balloon"></a></li>
 		</ul>
-		<div id="overlay"></div>
 	</body>
 </html>

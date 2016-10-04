@@ -5,15 +5,6 @@
 		<link href="../css/main.css" rel="stylesheet" type="text/css"/>
 
 
-		<!--		jQuery-->
-		<script
-			src="https://code.jquery.com/jquery-3.1.1.js"
-			integrity="sha256-16cdPddA6VdVInumRGo6IbivbERE8p7CQR3HzTBuELA="
-			crossorigin="anonymous"></script>
-
-		<!--		custom jQuery-->
-		<script src="../js/app.js" type="text/javascript"></script>
-
 	</head>
 	<body>
 		<h1>Image Gallery</h1>
@@ -39,5 +30,13 @@
 			<li><a href="../images/sunny_boy_balloon.jpg"><img src="../images/sunny_boy_balloon.jpg" width="100"
 																				alt="Sunny boy balloon"></a></li>
 		</ul>
+		<!--		jQuery-->
+		<script
+			src="https://code.jquery.com/jquery-3.1.1.js"
+			integrity="sha256-16cdPddA6VdVInumRGo6IbivbERE8p7CQR3HzTBuELA="
+			crossorigin="anonymous" charset="UTF-8"></script>
+
+		<!--		custom jQuery-->
+		<script src="../js/app.js" type="text/javascript" charset="UTF-8"></script>
 	</body>
 </html>

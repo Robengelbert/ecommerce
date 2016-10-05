@@ -24,15 +24,16 @@
 // 	});
 // }
 $(document).ready(function() {
+	$("#navbar").hide();
 	var scroll_start = 0;
 	var startChange = $("#startChange");
 	var offset = startChange.offset();
 	$(document).scroll(function(){
 		scroll_start = $(this).scrollTop();
 		if(scroll_start > offset.top){
-			$("#navbar").css("background-color", "#ffff00");
+			$("#navbar").css("background-color", "#ffff00").fadeIn("slow");
 		}else{
-			$("#navbar").css("background-color", "transparent");
+			$("#navbar").css("background-color", "transparent").fadeOut("slow");
 		}
 	});
 	$(".spoiler span").hide();

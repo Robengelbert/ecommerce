@@ -1,10 +1,19 @@
 body{
-	background-color:skyblue;
+	background-color:Black;
+	color:white;
+	text-align:center;
 	padding-top:60px;
 }
-h1{
-	text-align: center;
-	color:darkgray;
+
+button{
+	background-color:yellow;
+	color:black;
+	-moz-border-radius:15px;
+	-webkit-border-radius: 15px;
+	border:5px solid white;
+}
+button:hover{
+	background-color:#ffa500;
 }
 
 .hid{
@@ -25,18 +34,6 @@ h1{
 	width: 100% !important;
 	height: auto !important;
 }
-
-/*.navbar{*/
-	/*-webkit-transition: all 0.6s ease-out;*/
-	/*-moz-transition: all 0.6s ease-out;*/
-	/*-o-transition: all 0.6s ease-out;*/
-	/*transition: all 0.6s ease-out;*/
-/*}*/
-
-/*.navbar .scrolled{*/
-	/*background: rgb(68, 68, 68);*/
-	/*background: rgba(0, 0, 0, 0.78);*/
-/*}*/
 
 @media(max-width: 1200px){
 	#photos{

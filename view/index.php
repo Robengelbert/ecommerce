@@ -94,5 +94,8 @@
 			</div>
 		</div>
 
+		<footer>
+			&copy; Robert Engelbert
+		</footer>
 	</body>
 </html>
